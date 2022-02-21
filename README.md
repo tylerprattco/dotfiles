@@ -1,4 +1,4 @@
-Tyler's dot files.
+Tyler's dot files. I'm gay.
 
 Oh My Zsh:
 <br>https://github.com/ohmyzsh/ohmyzsh
