@@ -1,7 +1,6 @@
 <h1>Tyler's dot files.</h1> 
-<h2>I'm gay.</h2>
 
-<p>
+<p> I'm gay.
 <br><br>---
 <br><br>
 Oh My Zsh:
