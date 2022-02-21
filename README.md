@@ -2,7 +2,7 @@
 
 <p>
   <ol>    
-    <br><li>There are many like theme, but these ones are mine.</li>
+    <br><li>There are many like them, but these ones are mine.</li>
     <br><li>My dot files are my best friends. This repository is my life. I must master it as I must master my dotfiles.</li>
     <br><li>My dot files, without me, are useless. Without my dot files, I am useless. I must maintain my dot files true. </li>
     <br><li>My dot files and myself know that what counts in this world is not the configs we build, nor the bugs in my code. We know that it is the user experience that count. We will experience….</li>
