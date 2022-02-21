@@ -1,6 +1,7 @@
 <h1>I am Tyler and these are my dot files. </h1> 
 
-<p> 1. There are many like it, but this one is mine. 2. My dot files are my best friends. This repository is my life. I must master it as I must master my dotfiles. 
+<p> 1. There are many like it, but this one is mine. 
+<br> 2. My dot files are my best friends. This repository is my life. I must master it as I must master my dotfiles. 
 <br><br>---
 <br><br>
 Oh My Zsh:
