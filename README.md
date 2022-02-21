@@ -1,4 +1,7 @@
-Tyler's dot files. I'm gay.
+<h1>Tyler's dot files.</h1> 
+<h2>I'm gay.</h2>
+
+<p>
 <br><br>---
 <br><br>
 Oh My Zsh:
@@ -12,3 +15,4 @@ zsh-syntax-highlighting:
 
 picom (yshui):
 <br>https://github.com/yshui/picom
+</p>
