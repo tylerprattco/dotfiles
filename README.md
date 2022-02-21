@@ -1,7 +1,7 @@
 Tyler's dot files.
 
 Oh My Zsh:
-https://github.com/ohmyzsh/ohmyzsh
+<p>https://github.com/ohmyzsh/ohmyzsh
 
 zsh-autosuggestions:
 https://github.com/zsh-users/zsh-autosuggestions
