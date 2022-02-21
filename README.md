@@ -9,17 +9,18 @@
     <br><li>My dot files are human, even as I, because it is my life. Thus, I will learn it as a brother. I will learn its weaknesses, its strength, its structure, its config files, its actions and its dependencies. I will ever guard it against the ravages of russians and hackers as I will ever guard my legs, my arms, my eyes and my heart against damage. I will keep my repository clean and ready. We will become part of each other. We will ….</li>
     <br><li>Before God, I swear this creed. My dot files and myself are the defenders of my Linux set up. We are the masters of our enemy. We are the saviors of the digital age.</li>
     <br><li>So be it, until victory belongs to the open source community and there is no Apple or Microsoft, but peace!!</li>
-<br><br>---
-<br><br>
-Oh My Zsh:
-<br>https://github.com/ohmyzsh/ohmyzsh
+  </ol>
+  <br><br>---
+  <br><br>
+  Oh My Zsh:
+  <br>https://github.com/ohmyzsh/ohmyzsh
 
-zsh-autosuggestions:
-<br>https://github.com/zsh-users/zsh-autosuggestions
+  zsh-autosuggestions:
+  <br>https://github.com/zsh-users/zsh-autosuggestions
 
-zsh-syntax-highlighting:
-<br>https://github.com/zsh-users/zsh-syntax-highlighting
+  zsh-syntax-highlighting:
+  <br>https://github.com/zsh-users/zsh-syntax-highlighting
 
-picom (yshui):
-<br>https://github.com/yshui/picom
-</p>
+  picom (yshui):
+  <br>https://github.com/yshui/picom
+  </p>
