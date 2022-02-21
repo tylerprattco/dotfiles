@@ -4,8 +4,10 @@ Oh My Zsh:
 <br>https://github.com/ohmyzsh/ohmyzsh
 
 zsh-autosuggestions:
-https://github.com/zsh-users/zsh-autosuggestions
+<br>https://github.com/zsh-users/zsh-autosuggestions
 
 zsh-syntax-highlighting:
-https://github.com/zsh-users/zsh-syntax-highlighting
+<br>https://github.com/zsh-users/zsh-syntax-highlighting
 
+picom (yshui):
+<br>https://github.com/yshui/picom
